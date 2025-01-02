@@ -1,9 +1,59 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="페이지-1" id="s3w5Qbjm7CSa7rj8Q8lt">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="-1884" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="g2exV4c6sV1txqiCaE4A-109" value="현재 사례 3408호선" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="3193.75" width="175.5" height="70.5" as="geometry" />
+        </mxCell>
+        <mxCell id="g2exV4c6sV1txqiCaE4A-110" value="과거 사례 3322호선" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-138" y="2963" width="179" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="g2exV4c6sV1txqiCaE4A-111" value="환기량 기준: 상한값 무시, 하한값만 적용" style="fillColor=none;strokeColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="55" y="2962" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="g2exV4c6sV1txqiCaE4A-112" value="By-pass Line: Open/Close 조건 고려" style="fillColor=none;strokeColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="365" y="2962" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="g2exV4c6sV1txqiCaE4A-113" value="환기 체적: Single-wall + Double-wall 포함" style="fillColor=none;strokeColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="675" y="2962" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="g2exV4c6sV1txqiCaE4A-114" value="접근 방식: 보수적 해석, 최소 요구 충족 중점" style="fillColor=none;strokeColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="985" y="2962" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="g2exV4c6sV1txqiCaE4A-115" value="환기량 기준: 상한값 &amp; 하한값 모두 충족" style="fillColor=none;strokeColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="55" y="3190" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="g2exV4c6sV1txqiCaE4A-116" value="By-pass Line: Open/Close 조건 배제 또는 최소화" style="fillColor=none;strokeColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="365" y="3190" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="g2exV4c6sV1txqiCaE4A-117" value="환기 체적: Double-wall pipe로 한정" style="fillColor=none;strokeColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="675" y="3190" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="g2exV4c6sV1txqiCaE4A-118" value="접근 방식: 정밀하고 최적화된 해석" style="fillColor=none;strokeColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="985" y="3190" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="g2exV4c6sV1txqiCaE4A-123" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=circle;endFill=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=13;startSize=8;endSize=8;" edge="1" parent="1" source="g2exV4c6sV1txqiCaE4A-111" target="g2exV4c6sV1txqiCaE4A-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g2exV4c6sV1txqiCaE4A-124" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=circle;endFill=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=13;startSize=8;endSize=8;" edge="1" parent="1" source="g2exV4c6sV1txqiCaE4A-112" target="g2exV4c6sV1txqiCaE4A-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g2exV4c6sV1txqiCaE4A-125" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=circle;endFill=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=13;startSize=8;endSize=8;" edge="1" parent="1" source="g2exV4c6sV1txqiCaE4A-113" target="g2exV4c6sV1txqiCaE4A-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g2exV4c6sV1txqiCaE4A-126" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=circle;endFill=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=13;startSize=8;endSize=8;" edge="1" parent="1" source="g2exV4c6sV1txqiCaE4A-114" target="g2exV4c6sV1txqiCaE4A-118">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
