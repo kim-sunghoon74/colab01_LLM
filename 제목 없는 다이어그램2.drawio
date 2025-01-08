@@ -1,9 +1,113 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="페이지-1" id="9D6O2PjY0vOI98G61Y58">
-    <mxGraphModel>
+    <mxGraphModel dx="2049" dy="1237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UFEy5ex9H1Mwp2alphid-1" value="진동 해석 결과 설계 공정 지연 리스크 발견" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="40" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-2" value="표준 방진 구조 정립 필요 결정" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-3" value="Neo LNG 방진 구조 표준화&#xa;(기본설계와 조선설계 공동 작업)" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="966" y="50" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-4" value="거주구&#xa;연돌 연결 구조 적용" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="74" width="256" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-6" value="표준선 일반 배치도와 &#xa;Key Plan 반영 완료" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="310" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-7" value="방진 장치 최적화" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="322" width="182" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-10" value="주력 선종 방진 구조 표준화와 &#xa;설계와 건조 생산성 향상" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="966" y="750" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-11" value="설계 완료 호선 방진 대책에 따라&#xa;주력 선종 방진 구조 표준화 추진" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="750" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-12" value="차기 프로젝트 설계 신속 반영" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="750" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-13" value="Neo Container 신선형 방진 구조 &#xa;표준화 진행 중(25년 상반기)" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="890" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-14" value="수주-생존형 신선형 개발 단계부터 &#xa;방진 구조 표준화 추진" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="1050" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-15" value="" style="startArrow=circle;startFill=0;endArrow=circle;endFill=0;entryX=0.006;entryY=0.375;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="UFEy5ex9H1Mwp2alphid-1" target="UFEy5ex9H1Mwp2alphid-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-16" value="" style="startArrow=none;endArrow=circle;endFill=0;exitX=1;exitY=0.5;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="UFEy5ex9H1Mwp2alphid-2" target="UFEy5ex9H1Mwp2alphid-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-17" value="" style="startArrow=none;endArrow=circle;endFill=0;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryDx=0;entryDy=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="UFEy5ex9H1Mwp2alphid-3" target="UFEy5ex9H1Mwp2alphid-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-18" value="" style="startArrow=none;endArrow=circle;endFill=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="UFEy5ex9H1Mwp2alphid-3" target="UFEy5ex9H1Mwp2alphid-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-19" value="" style="startArrow=none;endArrow=circle;endFill=0;exitX=1;exitY=0.81;entryX=0.5;entryY=0;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="UFEy5ex9H1Mwp2alphid-3" target="UFEy5ex9H1Mwp2alphid-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-20" value="" style="startArrow=none;endArrow=circle;endFill=0;exitX=0.75;exitY=1;entryX=0.5;entryY=0;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="UFEy5ex9H1Mwp2alphid-2" target="UFEy5ex9H1Mwp2alphid-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="118" />
+              <mxPoint x="780" y="322" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-21" value="" style="startArrow=none;endArrow=circle;endFill=0;exitX=0.19;exitY=1;entryX=0.5;entryY=0;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="UFEy5ex9H1Mwp2alphid-7" target="UFEy5ex9H1Mwp2alphid-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-22" value="" style="startArrow=none;endArrow=circle;endFill=0;exitX=0.8;exitY=1;entryX=0.5;entryY=0;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="UFEy5ex9H1Mwp2alphid-7" target="UFEy5ex9H1Mwp2alphid-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-23" value="" style="startArrow=none;endArrow=circle;endFill=0;exitX=1;exitY=0.64;entryX=0.5;entryY=0;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="UFEy5ex9H1Mwp2alphid-9" target="UFEy5ex9H1Mwp2alphid-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-24" value="" style="startArrow=none;endArrow=circle;endFill=0;exitX=0;exitY=0.91;entryX=0.5;entryY=0;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="UFEy5ex9H1Mwp2alphid-10" target="UFEy5ex9H1Mwp2alphid-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-25" value="" style="startArrow=none;endArrow=circle;endFill=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="UFEy5ex9H1Mwp2alphid-11" target="UFEy5ex9H1Mwp2alphid-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-26" value="" style="startArrow=none;endArrow=circle;endFill=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="UFEy5ex9H1Mwp2alphid-10" target="UFEy5ex9H1Mwp2alphid-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-27" value="" style="startArrow=none;endArrow=circle;endFill=0;exitX=1;exitY=0.91;entryX=0.5;entryY=0;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="UFEy5ex9H1Mwp2alphid-10" target="UFEy5ex9H1Mwp2alphid-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-28" value="" style="startArrow=none;endArrow=circle;endFill=0;exitX=1;exitY=0.64;entryX=0.5;entryY=0;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="UFEy5ex9H1Mwp2alphid-2" target="UFEy5ex9H1Mwp2alphid-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="90" as="sourcePoint" />
+            <mxPoint x="1200" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-5" value="기관실 구조 보강&#xa;종단면 및 횡단면 10개소 45톤" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="180" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-29" value="" style="startArrow=none;endArrow=circle;endFill=0;exitX=1;exitY=0.64;entryX=0.5;entryY=0;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="UFEy5ex9H1Mwp2alphid-5" target="UFEy5ex9H1Mwp2alphid-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1760" y="230" as="sourcePoint" />
+            <mxPoint x="1200" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-8" value="선미 3차 발란서 장치 제거&#xa;표준 방진 구조로 공진 회피 가능" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="430" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-30" value="" style="startArrow=none;endArrow=circle;endFill=0;exitX=1;exitY=0.64;entryX=0.5;entryY=0;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="UFEy5ex9H1Mwp2alphid-8" target="UFEy5ex9H1Mwp2alphid-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1766" y="495" as="sourcePoint" />
+            <mxPoint x="1200" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UFEy5ex9H1Mwp2alphid-9" value="주기관 방진 장치와 톱브레이싱 적용&#xa;진동 기준 만족" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="570" width="260" height="78" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
