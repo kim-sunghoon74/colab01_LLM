@@ -1,9 +1,90 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="페이지-1" id="bS6CazdwB2Gaad-OUylC">
-    <mxGraphModel>
+    <mxGraphModel dx="1247" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oDL-kLvqqhcupJ867LPe-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="oDL-kLvqqhcupJ867LPe-1" target="oDL-kLvqqhcupJ867LPe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-1" value="진동 해석 결과 &#xa;설계 공정 지연 리스크 발견" style="fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1101" y="85" width="260" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="oDL-kLvqqhcupJ867LPe-2" target="oDL-kLvqqhcupJ867LPe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="oDL-kLvqqhcupJ867LPe-2" target="oDL-kLvqqhcupJ867LPe-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="oDL-kLvqqhcupJ867LPe-2" target="oDL-kLvqqhcupJ867LPe-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-2" value="표준 방진 구조 정립 필요 결정" style="fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1101" y="170" width="260" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="oDL-kLvqqhcupJ867LPe-3" target="oDL-kLvqqhcupJ867LPe-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="oDL-kLvqqhcupJ867LPe-3" target="oDL-kLvqqhcupJ867LPe-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="oDL-kLvqqhcupJ867LPe-3" target="oDL-kLvqqhcupJ867LPe-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-3" value="Neo LNG 방진 구조 표준화 &#xa;&#xa;기본설계와 조선설계 공동 작업" style="fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="828.95" y="258" width="260" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-4" value="거주구-연돌 연결 구조 적용" style="fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="882.95" y="345" width="190.05" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-5" value="기관실 구조 보강&#xa;&#xa;종단면 및 횡단면 10개소 45톤" style="fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="882.95" y="418" width="190.05" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-6" value="표준선 일반 배치도와&#xa;&#xa;Key Plan 반영 완료" style="fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="882.95" y="490" width="190.05" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="oDL-kLvqqhcupJ867LPe-7" target="oDL-kLvqqhcupJ867LPe-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="oDL-kLvqqhcupJ867LPe-7" target="oDL-kLvqqhcupJ867LPe-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-7" value="방진 장치 최적화" style="fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1140" y="258" width="182" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-8" value="선미 3차 발란서 장치 제거&#xa;(표준 방진 구조로 공진 회피 가능)" style="fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="345" width="220" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-9" value="주기관 방진 장치와 톱브레이싱 적용 &#xa;(진동 기준 만족)" style="fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="418" width="220" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="oDL-kLvqqhcupJ867LPe-10" target="oDL-kLvqqhcupJ867LPe-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="oDL-kLvqqhcupJ867LPe-10" target="oDL-kLvqqhcupJ867LPe-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="oDL-kLvqqhcupJ867LPe-10" target="oDL-kLvqqhcupJ867LPe-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-10" value="주력 선종 방진 구조 표준화&#xa;&#xa;설계와 건조 생산성 향상" style="fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1433" y="258" width="197" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="oDL-kLvqqhcupJ867LPe-11" target="oDL-kLvqqhcupJ867LPe-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-11" value="설계 완료 호선 방진 대책에 따라 &#xa;주력 선종 방진 구조 표준화 추진" style="fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1473" y="345" width="200" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-12" value="차기 프로젝트 설계 &#xa;신속 반영" style="fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="345" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-13" value="Neo Container 신선형 방진 구조 &#xa;&#xa;표준화 진행 중(25년 상반기)" style="fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1473" y="418" width="200" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="oDL-kLvqqhcupJ867LPe-14" value="수주-생존형 신선형 개발 단계부터 &#xa;&#xa;방진 구조 표준화 추진" style="fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1473" y="490" width="200" height="55" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
