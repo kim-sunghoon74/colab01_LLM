@@ -7,14 +7,14 @@
         <mxCell id="cUledtLy-DvFWvWRXGEA-92" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cUledtLy-DvFWvWRXGEA-40" target="cUledtLy-DvFWvWRXGEA-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cUledtLy-DvFWvWRXGEA-40" value="프로세스 매핑 활용&#xa;도구(GPT와 Mermaid Code)" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="cUledtLy-DvFWvWRXGEA-40" value="프로세스 매핑 활용&#xa;도구 : GPT와 Mermaid Code" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1074" y="340" width="266" height="78" as="geometry" />
         </mxCell>
         <mxCell id="cUledtLy-DvFWvWRXGEA-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cUledtLy-DvFWvWRXGEA-41" target="cUledtLy-DvFWvWRXGEA-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cUledtLy-DvFWvWRXGEA-41" value="개별 업무 플로차트 작성&#xa;- 진행 과제(1차) : 계획 수립시 작성(1차)&#xa;- 완료 과제(수정) : 품질백서 작성시&#xa;&#xa;                        &lt;개별 연구원&gt;" style="fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
-          <mxGeometry x="777" y="340" width="234" height="78" as="geometry" />
+        <mxCell id="cUledtLy-DvFWvWRXGEA-41" value="개별 업무 플로차트 작성&#xa;- 업무 진행 중(초벌 작성)&#xa;- 업무 완료 시(초벌 보안) : 품질백서 고려&#xa;&#xa;                        &lt;개별 연구원&gt;" style="fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="340" width="270" height="78" as="geometry" />
         </mxCell>
         <mxCell id="cUledtLy-DvFWvWRXGEA-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cUledtLy-DvFWvWRXGEA-42" target="cUledtLy-DvFWvWRXGEA-51">
           <mxGeometry relative="1" as="geometry" />
@@ -22,8 +22,8 @@
         <mxCell id="cUledtLy-DvFWvWRXGEA-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cUledtLy-DvFWvWRXGEA-42" target="cUledtLy-DvFWvWRXGEA-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cUledtLy-DvFWvWRXGEA-42" value="팀 단위 프로세스 매핑&#xa;(개별 과제가 10건 정도 모아지면, 진행해 봄)&#xa;(&#39;25 3월 경 예상됨)&#xa;&#xa;&lt;팀장&gt;" style="fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="760.5" y="450" width="267" height="84" as="geometry" />
+        <mxCell id="cUledtLy-DvFWvWRXGEA-42" value="팀 단위 프로세스 매핑&#xa;(개별 과제가 10건 정도 모아지면, 진행해 봄)&#xa;(&#39;25 3월 경 예상됨)&#xa;&#xa;&lt;팀장&gt;" style="fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="761.5" y="450" width="267" height="84" as="geometry" />
         </mxCell>
         <mxCell id="cUledtLy-DvFWvWRXGEA-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cUledtLy-DvFWvWRXGEA-43" target="cUledtLy-DvFWvWRXGEA-45">
           <mxGeometry relative="1" as="geometry" />
@@ -37,26 +37,29 @@
         <mxCell id="cUledtLy-DvFWvWRXGEA-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cUledtLy-DvFWvWRXGEA-43" target="cUledtLy-DvFWvWRXGEA-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cUledtLy-DvFWvWRXGEA-43" value="센터 전체 프로세스 매핑&#xa;(초벌 : 5월 경)" style="fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="777" y="596" width="234" height="54" as="geometry" />
+        <mxCell id="cUledtLy-DvFWvWRXGEA-93" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cUledtLy-DvFWvWRXGEA-43" target="cUledtLy-DvFWvWRXGEA-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cUledtLy-DvFWvWRXGEA-43" value="센터 전체 프로세스 매핑&#xa;(초벌 : 5월 경)&#xa;&lt;실장&gt;" style="fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="760" y="570" width="270" height="54" as="geometry" />
         </mxCell>
         <mxCell id="cUledtLy-DvFWvWRXGEA-45" value="강점 강화" style="fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="610" y="680" width="129" height="54" as="geometry" />
+          <mxGeometry x="580" y="680" width="129" height="54" as="geometry" />
         </mxCell>
         <mxCell id="cUledtLy-DvFWvWRXGEA-46" value="약점 보완" style="fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="760.5" y="680" width="129" height="54" as="geometry" />
+          <mxGeometry x="730.5" y="680" width="129" height="54" as="geometry" />
         </mxCell>
         <mxCell id="cUledtLy-DvFWvWRXGEA-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cUledtLy-DvFWvWRXGEA-47" target="cUledtLy-DvFWvWRXGEA-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cUledtLy-DvFWvWRXGEA-47" value="자원 투입 최적화" style="fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="910" y="680" width="182" height="54" as="geometry" />
+          <mxGeometry x="930" y="680" width="182" height="54" as="geometry" />
         </mxCell>
         <mxCell id="cUledtLy-DvFWvWRXGEA-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cUledtLy-DvFWvWRXGEA-48" target="cUledtLy-DvFWvWRXGEA-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cUledtLy-DvFWvWRXGEA-48" value="팀 간 협력 강화" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1106" y="680" width="170" height="54" as="geometry" />
+        <mxCell id="cUledtLy-DvFWvWRXGEA-48" value="팀 간 협력 강화" style="fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1126" y="680" width="170" height="54" as="geometry" />
         </mxCell>
         <mxCell id="cUledtLy-DvFWvWRXGEA-50" value="사례 참고: &#xa;품질 리스크 최소화(구조: 이병규 책임)" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1347" y="340" width="260" height="80" as="geometry" />
@@ -64,20 +67,20 @@
         <mxCell id="cUledtLy-DvFWvWRXGEA-51" value="VSM(Value Stream Map)으로 분석 시도&#xa;&#xa;&lt;팀장&gt;" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1074" y="450" width="220" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="cUledtLy-DvFWvWRXGEA-52" value="현재 상황 가시화" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="910" y="752" width="182" height="54" as="geometry" />
+        <mxCell id="cUledtLy-DvFWvWRXGEA-52" value="현재 상황 가시화" style="fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="930" y="752" width="182" height="54" as="geometry" />
         </mxCell>
         <mxCell id="cUledtLy-DvFWvWRXGEA-53" value="구성원 참여 증가" style="fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="752" width="182" height="54" as="geometry" />
+          <mxGeometry x="1120" y="752" width="182" height="54" as="geometry" />
         </mxCell>
         <mxCell id="cUledtLy-DvFWvWRXGEA-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cUledtLy-DvFWvWRXGEA-55" target="cUledtLy-DvFWvWRXGEA-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cUledtLy-DvFWvWRXGEA-55" value="중기 목표 : &#xa;팀 간 협력 증대 및 연계 강화&#xa;5개년 Road map 구체화" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="767.5" y="830" width="242.5" height="70" as="geometry" />
+        <mxCell id="cUledtLy-DvFWvWRXGEA-55" value="중기 목표 : &#xa;팀 간 협력 증대 및 연계 강화 방안 도출&#xa;5개년 Road map 구체화" style="fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="773.75" y="830" width="242.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="cUledtLy-DvFWvWRXGEA-56" value="장기 목표 : &#xa;조직의 가치 증명" style="fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="767.5" y="928" width="242.5" height="50" as="geometry" />
+        <mxCell id="cUledtLy-DvFWvWRXGEA-56" value="장기 목표 : &#xa;조직의 가치 증명" style="fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="773.75" y="928" width="242.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
