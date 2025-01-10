@@ -13,7 +13,7 @@
         <mxCell id="cUledtLy-DvFWvWRXGEA-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cUledtLy-DvFWvWRXGEA-41" target="cUledtLy-DvFWvWRXGEA-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cUledtLy-DvFWvWRXGEA-41" value="개별 업무 플로차트 작성&#xa;- 업무 진행 중(초벌 작성)&#xa;- 업무 완료 시(초벌 보안) : 품질백서 고려&#xa;&#xa;                        &lt;개별 연구원&gt;" style="fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" vertex="1" parent="1">
+        <mxCell id="cUledtLy-DvFWvWRXGEA-41" value="개별 업무 플로차트 작성&#xa;- 업무 진행 중(초벌 작성)&#xa;- 업무 완료 시(초벌 보안) : 품질백서 고려&#xa;&#xa;                        &lt;과제 담당자&gt;" style="fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" vertex="1" parent="1">
           <mxGeometry x="760" y="340" width="270" height="78" as="geometry" />
         </mxCell>
         <mxCell id="cUledtLy-DvFWvWRXGEA-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cUledtLy-DvFWvWRXGEA-42" target="cUledtLy-DvFWvWRXGEA-51">
